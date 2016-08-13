@@ -1,0 +1,31 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - CRToast (0.0.9)
+  - Localize-Swift (1.5)
+  - ReachabilitySwift (2.3.3)
+  - SwiftyJSON (2.3.2)
+  - XLActionController (2.0.0):
+    - XLActionController/Core (= 2.0.0)
+  - XLActionController/Core (2.0.0)
+
+DEPENDENCIES:
+  - ChameleonFramework (~> 2.1.0)
+  - CRToast (~> 0.0.9)
+  - Localize-Swift (~> 1.5)
+  - ReachabilitySwift (~> 2.3.3)
+  - SwiftyJSON (~> 2.3.2)
+  - XLActionController (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  CRToast: 5a78c22b921c5ed3487488af605bc403a9c92fed
+  Localize-Swift: 288aa763db72b0628d2cb111fbf5babc90529d0c
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  XLActionController: 97ed31237413db4d9401c6a559270f4d2b4de136
+
+PODFILE CHECKSUM: 0bdf89d1e8d448ab2cbfa5518971d8fcd0fc4002
+
+COCOAPODS: 1.0.1
